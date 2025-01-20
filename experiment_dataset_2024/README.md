@@ -1,0 +1,2 @@
+# Description
+Dataset used in the experiments carried out in Denis Robson Dantas Boaventura's dissertation, entitled: "Recommender Systems for Smart Homes: An Approach with Integration of Reinforcement Learning and Implicit Feedback". This set was designed to evaluate the effectiveness of recommender systems in smart environments. The data were carefully annotated and organized to allow the reproduction of the experiments described in the research, in addition to serving as a basis for future studies in the area of recommender systems and incremental learning in smart homes.
